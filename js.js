@@ -49,9 +49,11 @@ console.log(MyNumber);
 //     i++;
 // }
 
-let i=0
-do {
-    console.log(i + ":" + MyString[i]);
-    i++;
-} while (i<3);
+// let i=0
+// do {
+//     console.log(i + ":" + MyString[i]);
+//     i++;
+// } while (i<3);
+
+
     
