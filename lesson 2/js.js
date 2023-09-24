@@ -28,14 +28,14 @@
 // console.log(n)
 // }
 
-let MyNumber = [0,1,2];
-let MyString = ['Ngoc','Lam','tai']
+
+// let MyNumber = [0,1,2];
+// let MyString = ['Ngoc','Lam','tai']
 
 
 
-console.log(MyString);
-console.log(MyNumber);
-
+// console.log(MyString);
+// console.log(MyNumber);
 // for(i=0;i<3;i++){
 // console.log(i +":"+MyString[i]);
 // }
@@ -56,4 +56,3 @@ console.log(MyNumber);
 // } while (i<3);
 
 
-    
